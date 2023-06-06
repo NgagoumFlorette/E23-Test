@@ -1,1 +1,3 @@
 le ciel est bleu.....
+les oiseaux chantent
+la vie est belle
